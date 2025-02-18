@@ -1,4 +1,6 @@
-# TrackingAPI Example Node (ES6) Client
+# thelightbug.com TrackingAPI Example Node (ES6) Client
+
+**Note**: This repository is from circa 2020/21, and may be out of date. Please refer to https://docs.lightbug.io for the most up-to-date information.
 
 API for retrieving tracking data and changing settings on LightBug & RemoteThings tracking devices
 
